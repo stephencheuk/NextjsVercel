@@ -9,7 +9,7 @@ export default function RootLayout({
 }) {
   return (
     <html>
-      <title>My Website</title>
+      <title>Stephen's Website</title>
       <head />
       <body>
         <Header />
